@@ -8,15 +8,15 @@
     "city_count": 5
   },
   {
+    "country_name": "Cayman Islands",
+    "city_count": 7
+  },
+  {
     "country_name": "Grenada",
     "city_count": 7
   },
   {
-    "country_name": "Solomon Islands",
-    "city_count": 7
-  },
-  {
-    "country_name": "Nauru",
+    "country_name": "Barbados",
     "city_count": 7
   },
   {
@@ -24,12 +24,16 @@
     "city_count": 7
   },
   {
-    "country_name": "Cayman Islands",
+    "country_name": "Nauru",
     "city_count": 7
   },
   {
-    "country_name": "Barbados",
+    "country_name": "Solomon Islands",
     "city_count": 7
+  },
+  {
+    "country_name": "Bonaire, Sint Eustatius and Saba",
+    "city_count": 8
   },
   {
     "country_name": "Seychelles",
@@ -40,23 +44,11 @@
     "city_count": 8
   },
   {
-    "country_name": "Bonaire, Sint Eustatius and Saba",
-    "city_count": 8
-  },
-  {
-    "country_name": "Antigua and Barbuda",
-    "city_count": 9
-  },
-  {
     "country_name": "Bahrain",
     "city_count": 9
   },
   {
-    "country_name": "Brunei",
-    "city_count": 9
-  },
-  {
-    "country_name": "San Marino",
+    "country_name": "Antigua and Barbuda",
     "city_count": 9
   },
   {
@@ -64,11 +56,11 @@
     "city_count": 9
   },
   {
-    "country_name": "Bermuda",
+    "country_name": "Brunei",
     "city_count": 9
   },
   {
-    "country_name": "Tuvalu",
+    "country_name": "Bermuda",
     "city_count": 9
   },
   {
@@ -76,11 +68,19 @@
     "city_count": 9
   },
   {
-    "country_name": "Andorra",
-    "city_count": 10
+    "country_name": "Tuvalu",
+    "city_count": 9
+  },
+  {
+    "country_name": "San Marino",
+    "city_count": 9
   },
   {
     "country_name": "New Caledonia",
+    "city_count": 10
+  },
+  {
+    "country_name": "Andorra",
     "city_count": 10
   },
   {
@@ -92,10 +92,6 @@
     "city_count": 11
   },
   {
-    "country_name": "Djibouti",
-    "city_count": 12
-  },
-  {
     "country_name": "Lesotho",
     "city_count": 12
   },
@@ -104,7 +100,11 @@
     "city_count": 12
   },
   {
-    "country_name": "Belize",
+    "country_name": "Djibouti",
+    "city_count": 12
+  },
+  {
+    "country_name": "Suriname",
     "city_count": 13
   },
   {
@@ -112,7 +112,7 @@
     "city_count": 13
   },
   {
-    "country_name": "Suriname",
+    "country_name": "Belize",
     "city_count": 13
   },
   {
@@ -128,16 +128,12 @@
     "city_count": 15
   },
   {
-    "country_name": "Palau",
-    "city_count": 16
-  },
-  {
     "country_name": "Man (Isle of)",
     "city_count": 16
   },
   {
-    "country_name": "Congo",
-    "city_count": 17
+    "country_name": "Palau",
+    "city_count": 16
   },
   {
     "country_name": "Dominica",
@@ -148,12 +144,12 @@
     "city_count": 17
   },
   {
-    "country_name": "Liberia",
-    "city_count": 18
+    "country_name": "Congo",
+    "city_count": 17
   },
   {
-    "country_name": "Virgin Islands (US)",
-    "city_count": 20
+    "country_name": "Liberia",
+    "city_count": 18
   },
   {
     "country_name": "Samoa",
@@ -164,11 +160,15 @@
     "city_count": 20
   },
   {
-    "country_name": "The Bahamas",
-    "city_count": 21
+    "country_name": "Virgin Islands (US)",
+    "city_count": 20
   },
   {
     "country_name": "Maldives",
+    "city_count": 21
+  },
+  {
+    "country_name": "The Bahamas",
     "city_count": 21
   },
   {
@@ -192,11 +192,11 @@
     "city_count": 25
   },
   {
-    "country_name": "Lebanon",
+    "country_name": "Singapore",
     "city_count": 26
   },
   {
-    "country_name": "Singapore",
+    "country_name": "Lebanon",
     "city_count": 26
   },
   {
@@ -204,11 +204,11 @@
     "city_count": 27
   },
   {
-    "country_name": "Oman",
+    "country_name": "Gabon",
     "city_count": 28
   },
   {
-    "country_name": "Gabon",
+    "country_name": "Oman",
     "city_count": 28
   },
   {
@@ -220,11 +220,11 @@
     "city_count": 30
   },
   {
-    "country_name": "Eswatini",
+    "country_name": "Montenegro",
     "city_count": 34
   },
   {
-    "country_name": "Montenegro",
+    "country_name": "Eswatini",
     "city_count": 34
   },
   {
@@ -240,11 +240,11 @@
     "city_count": 38
   },
   {
-    "country_name": "United Arab Emirates",
+    "country_name": "Mongolia",
     "city_count": 39
   },
   {
-    "country_name": "Mongolia",
+    "country_name": "United Arab Emirates",
     "city_count": 39
   },
   {
@@ -272,11 +272,11 @@
     "city_count": 48
   },
   {
-    "country_name": "Timor-Leste",
+    "country_name": "Chad",
     "city_count": 50
   },
   {
-    "country_name": "Chad",
+    "country_name": "Timor-Leste",
     "city_count": 50
   },
   {
@@ -316,19 +316,19 @@
     "city_count": 67
   },
   {
-    "country_name": "Niger",
-    "city_count": 70
-  },
-  {
     "country_name": "Tajikistan",
     "city_count": 70
   },
   {
-    "country_name": "Sudan",
-    "city_count": 71
+    "country_name": "Niger",
+    "city_count": 70
   },
   {
     "country_name": "Zambia",
+    "city_count": 71
+  },
+  {
+    "country_name": "Sudan",
     "city_count": 71
   },
   {
@@ -340,11 +340,11 @@
     "city_count": 73
   },
   {
-    "country_name": "Iceland",
+    "country_name": "Myanmar",
     "city_count": 74
   },
   {
-    "country_name": "Myanmar",
+    "country_name": "Iceland",
     "city_count": 74
   },
   {
@@ -488,11 +488,11 @@
     "city_count": 142
   },
   {
-    "country_name": "Ethiopia",
+    "country_name": "Luxembourg",
     "city_count": 144
   },
   {
-    "country_name": "Luxembourg",
+    "country_name": "Ethiopia",
     "city_count": 144
   },
   {
@@ -620,11 +620,11 @@
     "city_count": 372
   },
   {
-    "country_name": "Guatemala",
+    "country_name": "Saudi Arabia",
     "city_count": 382
   },
   {
-    "country_name": "Saudi Arabia",
+    "country_name": "Guatemala",
     "city_count": 382
   },
   {

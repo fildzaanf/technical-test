@@ -81,7 +81,6 @@ func main() {
 	}
 
 	cityCountMap := make(map[string]int)
-
 	for _, record := range records[1:] {
 		country := record[7]
 		cityCountMap[country]++

@@ -1,74 +1,74 @@
 CountryName,CityCount
 South Sudan,1
 Sao Tome and Principe,5
-Grenada,7
-Solomon Islands,7
-Nauru,7
-Vanuatu,7
 Cayman Islands,7
+Grenada,7
 Barbados,7
+Vanuatu,7
+Nauru,7
+Solomon Islands,7
+"Bonaire, Sint Eustatius and Saba",8
 Seychelles,8
 Tonga,8
-"Bonaire, Sint Eustatius and Saba",8
-Antigua and Barbuda,9
 Bahrain,9
-Brunei,9
-San Marino,9
+Antigua and Barbuda,9
 Madagascar,9
+Brunei,9
 Bermuda,9
-Tuvalu,9
 Saint Vincent and the Grenadines,9
-Andorra,10
+Tuvalu,9
+San Marino,9
 New Caledonia,10
+Andorra,10
 Liechtenstein,11
 Eritrea,11
-Djibouti,12
 Lesotho,12
 Rwanda,12
-Belize,13
-Saint Kitts and Nevis,13
+Djibouti,12
 Suriname,13
+Saint Kitts and Nevis,13
+Belize,13
 Guinea-Bissau,14
 Guyana,14
 Qatar,15
-Palau,16
 Man (Isle of),16
-Congo,17
+Palau,16
 Dominica,17
 Burundi,17
+Congo,17
 Liberia,18
-Virgin Islands (US),20
 Samoa,20
 Fiji Islands,20
-The Bahamas,21
+Virgin Islands (US),20
 Maldives,21
+The Bahamas,21
 Togo,22
 Cape Verde,24
 Equatorial Guinea,24
 Trinidad and Tobago,25
 Kuwait,25
-Lebanon,26
 Singapore,26
+Lebanon,26
 Hong Kong S.A.R.,27
-Oman,28
 Gabon,28
+Oman,28
 Faroe Islands,29
 Turkmenistan,30
-Eswatini,34
 Montenegro,34
+Eswatini,34
 Benin,36
 Mozambique,38
 Kiribati,38
-United Arab Emirates,39
 Mongolia,39
+United Arab Emirates,39
 Taiwan,40
 Mauritania,42
 Central African Republic,43
 Somalia,46
 Mali,47
 Namibia,48
-Timor-Leste,50
 Chad,50
+Timor-Leste,50
 Libya,51
 Kyrgyzstan,53
 Guinea,54
@@ -78,14 +78,14 @@ Malawi,61
 Bangladesh,64
 Democratic Republic of the Congo,67
 Angola,67
-Niger,70
 Tajikistan,70
-Sudan,71
+Niger,70
 Zambia,71
+Sudan,71
 Moldova,72
 Senegal,73
-Iceland,74
 Myanmar,74
+Iceland,74
 Botswana,75
 Laos,76
 Nepal,77
@@ -121,8 +121,8 @@ Venezuela,136
 Cameroon,139
 Paraguay,140
 Syria,142
-Ethiopia,144
 Luxembourg,144
+Ethiopia,144
 Sri Lanka,147
 Israel,150
 Nicaragua,155
@@ -154,8 +154,8 @@ Serbia,334
 Yemen,342
 Chile,346
 Ireland,372
-Guatemala,382
 Saudi Arabia,382
+Guatemala,382
 Denmark,430
 Finland,449
 Pakistan,458
